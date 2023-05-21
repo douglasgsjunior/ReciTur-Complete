@@ -1,0 +1,14 @@
+{
+  "name": "recitur-complete",
+  "version": "1.0.0",
+  "description": "full version of recitur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recitur"
+  ],
+  "author": "DouglasGuedes",
+  "license": "ISC"
+}
